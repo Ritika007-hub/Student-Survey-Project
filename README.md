@@ -38,14 +38,6 @@ To analyze student spending behavior and visualize the results in a clear, inter
 
 ---
 
-## 🚀 How to Use
-
-1. Clone or download this repo
-2. Open `Student_Spending_Dashboard.pbix` in **Power BI Desktop**
-3. Connect to your own `.xlsx` data if needed
-4. Apply the custom theme from `PowerBI_Theme.json` if not already applied
-5. Customize or publish to Power BI Service if desired
-
 ## Screnshot
 https://github.com/Ritika007-hub/Student-Survey-Project/blob/main/Screenshot%202025-07-30%20131024.png
 ---
