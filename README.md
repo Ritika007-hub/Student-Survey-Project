@@ -47,7 +47,7 @@ To analyze student spending behavior and visualize the results in a clear, inter
 5. Customize or publish to Power BI Service if desired
 
 ## Screnshot
-
+https://github.com/Ritika007-hub/Student-Survey-Project/blob/main/Screenshot%202025-07-30%20131024.png
 ---
 
 ## 🙋‍♀️ About Me
